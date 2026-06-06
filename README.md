@@ -97,31 +97,33 @@ The goal of this project is to strengthen query-writing skills and apply them to
   
 
 
-13. Employees who earn the highest salary in their department.  
+13. Employees who earn the highest salary in their department.
+    <img width="793" height="658" alt="Screenshot 2026-06-05 191748" src="https://github.com/user-attachments/assets/e2dd9079-c87b-4aaf-a4c7-21bc960dde9a" />
+  
     
 
-14. Employees whose performance rating is higher than their department average.  
+15. Employees whose performance rating is higher than their department average.  
     
 
-15. Employees who joined after the average join date of their department.  
+16. Employees who joined after the average join date of their department.  
     
 
-16. Employees whose salary is less than the maximum salary in their department.  
+17. Employees whose salary is less than the maximum salary in their department.  
     
 
-17. Employees whose salary is equal to the minimum salary in their department.  
+18. Employees whose salary is equal to the minimum salary in their department.  
     
 
-18. Departments that have employees earning more than 70,000.  
+19. Departments that have employees earning more than 70,000.  
      
 
-19. Employees whose salary is greater than at least one employee in their department.  
+20. Employees whose salary is greater than at least one employee in their department.  
     
 
-20. Employees who are the only employee in their department.  
+21. Employees who are the only employee in their department.  
     
 
-21. Employees whose salary is greater than the average salary of employees who joined after them.  
+22. Employees whose salary is greater than the average salary of employees who joined after them.  
      
 
 ---
