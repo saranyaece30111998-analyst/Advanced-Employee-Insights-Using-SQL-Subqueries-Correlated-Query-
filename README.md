@@ -132,7 +132,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 
 23. Employees whose salary is greater than the average salary of employees who joined after them.  
-     
+     <img width="1207" height="523" alt="Screenshot 2026-06-05 194727" src="https://github.com/user-attachments/assets/448ad6f8-033e-4dcd-bf28-0103bcadd8d8" />
+
 
 ---
 
