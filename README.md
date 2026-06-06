@@ -59,6 +59,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 5. Employees whose performance rating is higher than the company average.  
    
+<img width="1032" height="521" alt="Screenshot 2026-06-05 180322" src="https://github.com/user-attachments/assets/2ef65ea8-76c8-4ee0-b296-499e82f6c38f" />
 
 ---
 
