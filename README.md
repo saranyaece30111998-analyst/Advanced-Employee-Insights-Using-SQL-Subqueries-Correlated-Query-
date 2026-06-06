@@ -86,7 +86,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 10. Employees in departments with performance rating = 5.  
-     
+     <img width="1042" height="593" alt="Screenshot 2026-06-05 183646" src="https://github.com/user-attachments/assets/f6192aed-4a56-4ee8-8d8e-1b28b75acd82" />
+
 
 ---
 
