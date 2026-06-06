@@ -75,7 +75,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
    
 
 9. Employees whose salary is greater than any employee in Marketing.  
-   
+   <img width="908" height="507" alt="Screenshot 2026-06-05 183147" src="https://github.com/user-attachments/assets/f0709411-d077-4ce7-a086-b36c6b2209a4" />
+
 
 10. Employees whose salary is greater than all employees in HR.  
     
