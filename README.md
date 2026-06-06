@@ -78,10 +78,14 @@ The goal of this project is to strengthen query-writing skills and apply them to
    <img width="908" height="507" alt="Screenshot 2026-06-05 183147" src="https://github.com/user-attachments/assets/f0709411-d077-4ce7-a086-b36c6b2209a4" />
 
 
-10. Employees whose salary is greater than all employees in HR.  
+9. Employees whose salary is greater than all employees in HR.
+    <img width="1052" height="552" alt="Screenshot 2026-06-05 183320" src="https://github.com/user-attachments/assets/703c3bd6-4e2d-4862-8110-6f5f1ba3f7c7" />
+
+    
+      
     
 
-11. Employees in departments with performance rating = 5.  
+10. Employees in departments with performance rating = 5.  
      
 
 ---
