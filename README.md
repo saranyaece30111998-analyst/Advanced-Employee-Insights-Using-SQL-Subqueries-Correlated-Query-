@@ -42,7 +42,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
    FROM employees
    WHERE salary > (SELECT salary FROM employees WHERE empname='Ravi');
    ```
-    
+    <img width="597" height="470" alt="Screenshot 2026-06-05 175224" src="https://github.com/user-attachments/assets/d9b5f6e2-b450-4d31-ad48-55c513cdcb0e" />
+
 
 3. Employees who joined after Meena.  
    ```sql
