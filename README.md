@@ -112,7 +112,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 
 18. Employees whose salary is less than the maximum salary in their department.  
-    
+    <img width="988" height="588" alt="Screenshot 2026-06-05 192733" src="https://github.com/user-attachments/assets/57350110-6d68-4f9d-b0ed-a742c05bf88b" />
+
 
 19. Employees whose salary is equal to the minimum salary in their department.  
     
