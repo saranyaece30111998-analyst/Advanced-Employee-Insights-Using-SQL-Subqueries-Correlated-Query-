@@ -102,28 +102,30 @@ The goal of this project is to strengthen query-writing skills and apply them to
   
     
 
-15. Employees whose performance rating is higher than their department average.  
+15. Employees whose performance rating is higher than their department average.
+    <img width="1192" height="527" alt="Screenshot 2026-06-05 192015" src="https://github.com/user-attachments/assets/a54812ac-3b8e-4860-b28c-d67b60bd7293" />
+
     
 
-16. Employees who joined after the average join date of their department.  
+17. Employees who joined after the average join date of their department.  
     
 
-17. Employees whose salary is less than the maximum salary in their department.  
+18. Employees whose salary is less than the maximum salary in their department.  
     
 
-18. Employees whose salary is equal to the minimum salary in their department.  
+19. Employees whose salary is equal to the minimum salary in their department.  
     
 
-19. Departments that have employees earning more than 70,000.  
+20. Departments that have employees earning more than 70,000.  
      
 
-20. Employees whose salary is greater than at least one employee in their department.  
+21. Employees whose salary is greater than at least one employee in their department.  
     
 
-21. Employees who are the only employee in their department.  
+22. Employees who are the only employee in their department.  
     
 
-22. Employees whose salary is greater than the average salary of employees who joined after them.  
+23. Employees whose salary is greater than the average salary of employees who joined after them.  
      
 
 ---
