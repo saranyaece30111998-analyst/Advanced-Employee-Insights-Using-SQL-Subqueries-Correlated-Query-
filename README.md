@@ -117,6 +117,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 19. Employees whose salary is equal to the minimum salary in their department.  
     
+<img width="941" height="590" alt="Screenshot 2026-06-05 193048" src="https://github.com/user-attachments/assets/397a0935-777a-440a-b576-b51f7a0d34cc" />
 
 20. Departments that have employees earning more than 70,000.  
      
