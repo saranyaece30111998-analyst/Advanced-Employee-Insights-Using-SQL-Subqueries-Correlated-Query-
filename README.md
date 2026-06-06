@@ -51,7 +51,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
    ```
 
 4. Employees whose salary is greater than the average salary of the IT department.  
-   `[Looks like the result wasn't safe to show. 
+   
 
 5. Employees whose performance rating is higher than the company average.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
