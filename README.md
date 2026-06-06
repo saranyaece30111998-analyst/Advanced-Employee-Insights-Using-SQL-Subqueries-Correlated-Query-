@@ -69,7 +69,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 
 7. Employees who work in departments located in Pune.
-   <img width="466" height="457" alt="Screenshot 2026-06-05 190657" src="https://github.com/user-attachments/assets/a133cf1e-e841-49c6-a4f5-7dd5b7d11bb8" />
+   
  
    
 
