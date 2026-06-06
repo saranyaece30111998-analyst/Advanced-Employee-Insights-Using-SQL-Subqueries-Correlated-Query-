@@ -70,7 +70,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 7. Employees who work in departments located in Pune.
    
- 
+ -<img width="466" height="457" alt="Screenshot 2026-06-05 190657" src="https://github.com/user-attachments/assets/d89c6dc8-3090-4238-9015-fd8cf2bba703" />
+
    
 
 9. Employees whose salary is greater than any employee in Marketing.  
