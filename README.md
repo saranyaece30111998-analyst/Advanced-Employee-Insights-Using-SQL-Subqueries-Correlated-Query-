@@ -122,9 +122,7 @@ This project provides a comprehensive practice set for SQL subqueries.
 By covering single-row, multi-row, and correlated subqueries, it equips learners with the ability to answer complex business questions.  
 These queries form the foundation for **business intelligence reporting** and **data-driven decision-making**.
 
----
-
-## 📸 Screenshots
+--
 
 
 ---
