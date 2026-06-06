@@ -63,7 +63,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
    
 
 7. Employees who work in departments located in Pune.  
-   `[Looks like the result wasn't safe to show. 
+   
 
 8. Employees whose salary is greater than any employee in Marketing.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
