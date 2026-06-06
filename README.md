@@ -124,7 +124,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
 <img width="813" height="507" alt="Screenshot 2026-06-05 193804" src="https://github.com/user-attachments/assets/ccbf6e02-e1e6-4736-91e8-55308829418c" />
 
 21. Employees whose salary is greater than at least one employee in their department.  
-    
+    <img width="1045" height="568" alt="Screenshot 2026-06-05 194100" src="https://github.com/user-attachments/assets/d76b38af-2247-4f60-be5b-697eb1f5a0d3" />
+
 
 22. Employees who are the only employee in their department.  
     
