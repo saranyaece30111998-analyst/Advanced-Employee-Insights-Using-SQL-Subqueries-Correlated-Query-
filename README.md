@@ -78,7 +78,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 ### 🔹 Correlated Subqueries
 11. Employees whose salary is greater than the average salary of their department.  
-   `[Looks like the result wasn't safe to show. 
+
 
 12. Employees who earn the highest salary in their department.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
