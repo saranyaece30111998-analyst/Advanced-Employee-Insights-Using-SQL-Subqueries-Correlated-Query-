@@ -33,7 +33,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
    FROM employees
    WHERE salary > (SELECT AVG(salary) FROM employees);
    ```
-   
+   <img width="643" height="315" alt="Screenshot 2026-06-05 174752" src="https://github.com/user-attachments/assets/d968230c-18ca-43a3-b5ba-448912efe1cd" />
+
 
 2. Employees who earn more than Ravi.  
    ```sql
