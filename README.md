@@ -74,7 +74,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
    
 
-9. Employees whose salary is greater than any employee in Marketing.  
+8. Employees whose salary is greater than any employee in Marketing.  
    <img width="908" height="507" alt="Screenshot 2026-06-05 183147" src="https://github.com/user-attachments/assets/f0709411-d077-4ce7-a086-b36c6b2209a4" />
 
 
@@ -97,41 +97,41 @@ The goal of this project is to strengthen query-writing skills and apply them to
   
 
 
-13. Employees who earn the highest salary in their department.
+12. Employees who earn the highest salary in their department.
     <img width="793" height="658" alt="Screenshot 2026-06-05 191748" src="https://github.com/user-attachments/assets/e2dd9079-c87b-4aaf-a4c7-21bc960dde9a" />
   
     
 
-15. Employees whose performance rating is higher than their department average.
+13. Employees whose performance rating is higher than their department average.
     <img width="1192" height="527" alt="Screenshot 2026-06-05 192015" src="https://github.com/user-attachments/assets/a54812ac-3b8e-4860-b28c-d67b60bd7293" />
 
     
 
-17. Employees who joined after the average join date of their department.  
+14. Employees who joined after the average join date of their department.  
     <img width="546" height="512" alt="Screenshot 2026-06-05 192312" src="https://github.com/user-attachments/assets/9c02de5a-5820-4668-9df0-6c491976a098" />
 
 
-18. Employees whose salary is less than the maximum salary in their department.  
+15. Employees whose salary is less than the maximum salary in their department.  
     <img width="988" height="588" alt="Screenshot 2026-06-05 192733" src="https://github.com/user-attachments/assets/57350110-6d68-4f9d-b0ed-a742c05bf88b" />
 
 
-19. Employees whose salary is equal to the minimum salary in their department.  
+16. Employees whose salary is equal to the minimum salary in their department.  
     
 <img width="941" height="590" alt="Screenshot 2026-06-05 193048" src="https://github.com/user-attachments/assets/397a0935-777a-440a-b576-b51f7a0d34cc" />
 
-20. Departments that have employees earning more than 70,000.  
+17. Departments that have employees earning more than 70,000.  
      
 <img width="813" height="507" alt="Screenshot 2026-06-05 193804" src="https://github.com/user-attachments/assets/ccbf6e02-e1e6-4736-91e8-55308829418c" />
 
-21. Employees whose salary is greater than at least one employee in their department.  
+18. Employees whose salary is greater than at least one employee in their department.  
     <img width="1045" height="568" alt="Screenshot 2026-06-05 194100" src="https://github.com/user-attachments/assets/d76b38af-2247-4f60-be5b-697eb1f5a0d3" />
 
 
-22. Employees who are the only employee in their department.  
+19. Employees who are the only employee in their department.  
     <img width="745" height="466" alt="Screenshot 2026-06-05 194434" src="https://github.com/user-attachments/assets/bfb50671-db79-4d27-8203-7e3afee04183" />
 
 
-23. Employees whose salary is greater than the average salary of employees who joined after them.  
+20. Employees whose salary is greater than the average salary of employees who joined after them.  
      <img width="1207" height="523" alt="Screenshot 2026-06-05 194727" src="https://github.com/user-attachments/assets/448ad6f8-033e-4dcd-bf28-0103bcadd8d8" />
 
 
