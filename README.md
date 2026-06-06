@@ -99,7 +99,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
      
 
 18. Employees whose salary is greater than at least one employee in their department.  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+   `[Looks like the result wasn't safe to show. 
 
 19. Employees who are the only employee in their department.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
