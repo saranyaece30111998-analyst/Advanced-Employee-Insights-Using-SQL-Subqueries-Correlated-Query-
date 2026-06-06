@@ -84,7 +84,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 13. Employees whose performance rating is higher than their department average.  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+   `[Looks like the result wasn't safe to sho
 
 14. Employees who joined after the average join date of their department.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
