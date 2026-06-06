@@ -121,6 +121,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 20. Departments that have employees earning more than 70,000.  
      
+<img width="813" height="507" alt="Screenshot 2026-06-05 193804" src="https://github.com/user-attachments/assets/ccbf6e02-e1e6-4736-91e8-55308829418c" />
 
 21. Employees whose salary is greater than at least one employee in their department.  
     
