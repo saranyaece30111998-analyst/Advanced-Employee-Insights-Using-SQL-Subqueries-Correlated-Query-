@@ -66,7 +66,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
    
 
 8. Employees whose salary is greater than any employee in Marketing.  
-   `[Looks like the result wasn't safe to show. 
+   
 
 9. Employees whose salary is greater than all employees in HR.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
