@@ -41,7 +41,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
    FROM employees
    WHERE salary > (SELECT salary FROM employees WHERE empname='Ravi');
    ```
-   `[Looks like the result wasn't safe to show. 
+    
 
 3. Employees who joined after Meena.  
    ```sql
