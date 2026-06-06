@@ -126,7 +126,6 @@ These queries form the foundation for **business intelligence reporting** and **
 
 ## 📸 Screenshots
 All query outputs are documented with screenshots for clarity.  
-Place your screenshots in a `screenshots/` folder and link them as shown above.
 
 ---
 
