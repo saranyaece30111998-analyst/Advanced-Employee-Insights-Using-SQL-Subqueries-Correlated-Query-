@@ -108,7 +108,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 17. Employees who joined after the average join date of their department.  
-    
+    <img width="546" height="512" alt="Screenshot 2026-06-05 192312" src="https://github.com/user-attachments/assets/9c02de5a-5820-4668-9df0-6c491976a098" />
+
 
 18. Employees whose salary is less than the maximum salary in their department.  
     
