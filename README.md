@@ -166,7 +166,4 @@ These queries form the foundation for **business intelligence reporting** and **
 Skilled in Power BI, SQL, Python, Excel  
 📍 India  
 
-```
-
-
 
