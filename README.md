@@ -93,7 +93,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 16. Employees whose salary is equal to the minimum salary in their department.  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+   `[Looks like the result wasn't safe to show. 
 
 17. Departments that have employees earning more than 70,000.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
