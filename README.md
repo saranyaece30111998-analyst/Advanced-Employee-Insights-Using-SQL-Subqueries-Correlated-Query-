@@ -68,16 +68,18 @@ The goal of this project is to strengthen query-writing skills and apply them to
    <img width="773" height="617" alt="Screenshot 2026-06-05 190238" src="https://github.com/user-attachments/assets/2eba0310-9f9e-45b3-8bd8-c5ceb60a4fc1" />
 
 
-7. Employees who work in departments located in Pune.  
+7. Employees who work in departments located in Pune.
+   <img width="466" height="457" alt="Screenshot 2026-06-05 190657" src="https://github.com/user-attachments/assets/a133cf1e-e841-49c6-a4f5-7dd5b7d11bb8" />
+ 
    
 
-8. Employees whose salary is greater than any employee in Marketing.  
+9. Employees whose salary is greater than any employee in Marketing.  
    
 
-9. Employees whose salary is greater than all employees in HR.  
+10. Employees whose salary is greater than all employees in HR.  
     
 
-10. Employees in departments with performance rating = 5.  
+11. Employees in departments with performance rating = 5.  
      
 
 ---
