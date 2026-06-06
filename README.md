@@ -51,9 +51,11 @@ The goal of this project is to strengthen query-writing skills and apply them to
    FROM employees
    WHERE joindate > (SELECT joindate FROM employees WHERE empname='Meena');
    ```
+<img width="652" height="457" alt="Screenshot 2026-06-05 175447" src="https://github.com/user-attachments/assets/d2c82c2d-5ce1-4238-a1ab-2bfda8a26f54" />
 
 4. Employees whose salary is greater than the average salary of the IT department.  
-   
+   <img width="1013" height="423" alt="Screenshot 2026-06-05 175824" src="https://github.com/user-attachments/assets/69da26a2-a3d5-46e8-92a3-181f878d7368" />
+
 
 5. Employees whose performance rating is higher than the company average.  
    
