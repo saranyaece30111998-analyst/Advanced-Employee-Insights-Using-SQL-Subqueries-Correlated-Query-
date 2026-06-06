@@ -128,7 +128,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 
 22. Employees who are the only employee in their department.  
-    
+    <img width="745" height="466" alt="Screenshot 2026-06-05 194434" src="https://github.com/user-attachments/assets/bfb50671-db79-4d27-8203-7e3afee04183" />
+
 
 23. Employees whose salary is greater than the average salary of employees who joined after them.  
      
