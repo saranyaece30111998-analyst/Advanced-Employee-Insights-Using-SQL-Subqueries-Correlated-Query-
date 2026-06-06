@@ -142,6 +142,3 @@ Skilled in Power BI, SQL, Python, Excel
 
 ---
 
-✨ This README is structured, professional, and recruiter-friendly. You just need to **replace the placeholders (`screenshots/...`) with your actual screenshot file paths**.  
-
-Would you like me to also create a **GitHub profile README template** that highlights your skills and projects (like this one) for recruiters?
