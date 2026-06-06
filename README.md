@@ -65,7 +65,8 @@ The goal of this project is to strengthen query-writing skills and apply them to
 
 ### 🔹 Multi-Row Subqueries
 6. Employees who work in departments located in Chennai or Bangalore.  
-   
+   <img width="773" height="617" alt="Screenshot 2026-06-05 190238" src="https://github.com/user-attachments/assets/2eba0310-9f9e-45b3-8bd8-c5ceb60a4fc1" />
+
 
 7. Employees who work in departments located in Pune.  
    
