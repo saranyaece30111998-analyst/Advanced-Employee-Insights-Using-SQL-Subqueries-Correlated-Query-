@@ -49,7 +49,6 @@ The goal of this project is to strengthen query-writing skills and apply them to
    FROM employees
    WHERE joindate > (SELECT joindate FROM employees WHERE empname='Meena');
    ```
-   `[Looks like the result wasn't safe to show. 
 
 4. Employees whose salary is greater than the average salary of the IT department.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
