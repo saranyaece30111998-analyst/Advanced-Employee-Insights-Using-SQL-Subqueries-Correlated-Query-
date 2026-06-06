@@ -105,7 +105,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 20. Employees whose salary is greater than the average salary of employees who joined after them.  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+   `[Looks like the result wasn't safe to show. 
 
 ---
 
