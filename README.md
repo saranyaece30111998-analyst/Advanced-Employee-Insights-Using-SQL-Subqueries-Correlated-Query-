@@ -33,7 +33,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
    FROM employees
    WHERE salary > (SELECT AVG(salary) FROM employees);
    ```
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+   `[Looks like the result wasn't safe to show. 
 
 2. Employees who earn more than Ravi.  
    ```sql
