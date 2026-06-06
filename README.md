@@ -72,7 +72,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 10. Employees in departments with performance rating = 5.  
-   `[Looks like the result wasn't safe to show. 
+     
 
 ---
 
