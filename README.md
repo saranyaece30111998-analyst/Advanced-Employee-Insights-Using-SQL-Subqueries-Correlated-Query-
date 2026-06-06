@@ -54,7 +54,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
    
 
 5. Employees whose performance rating is higher than the company average.  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+   `[Looks like the result wasn't safe to show.
 
 ---
 
