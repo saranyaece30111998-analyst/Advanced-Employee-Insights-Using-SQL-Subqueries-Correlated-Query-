@@ -96,7 +96,7 @@ The goal of this project is to strengthen query-writing skills and apply them to
     
 
 17. Departments that have employees earning more than 70,000.  
-   `[Looks like the result wasn't safe to show. 
+     
 
 18. Employees whose salary is greater than at least one employee in their department.  
    `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
